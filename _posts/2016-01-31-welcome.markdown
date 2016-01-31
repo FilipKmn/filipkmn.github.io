@@ -2,7 +2,9 @@
 layout: post
 title:  "Welcome to my blog!"
 date:   2016-01-31 10:18:00
-categories: Thriller Comedy Horror
+categories: Welcome
 ---
 
-Nothing to see here. Yet! Content will be coming soon.
+Nothing to see here. Yet! Content coming soon.
+
+![Content coming](https://media0.giphy.com/media/1dr4D4zxSlOEM/200.gif)

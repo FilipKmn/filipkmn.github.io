@@ -1,14 +1,14 @@
 name: Filip's Blog
-description: Marketing, Kendo and mountain biking
+description: Marketing, Kendo and Mountain Biking
 meta_description: "Marketing gari, Kendo master and all around nice guy"
 
 markdown: redcarpet
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
+baseurl: http://filipkmn.github.io/
+domain_name: 'http://filipkmn.github.io/'
+google_analytics: 'UA-73151731-1'
 
 # Details for the RSS feed generator
 url:            'blog url'
