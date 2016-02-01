@@ -13,5 +13,5 @@ Find me on:[Twitter](https://twitter.com/filipkmn), [Facebook](https://facebook.
 
 ![Image of Fiko](./assets/images/cover.png)
 
-*_Disclaimer:_ This blog may contain traces of amateur photography, personal 
+########*_Disclaimer:_ This blog may contain traces of amateur photography, personal 
 opinions, cases of glorifying Srem and food criticism.*
