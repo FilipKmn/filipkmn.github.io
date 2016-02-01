@@ -3,8 +3,8 @@ layout: default
 title: Home
 cover: "./assets/images/cover.png"
 about: 'about.html'
-icon: "./assets/favicon.ico"
 ---
+<link rel="shortcut icon" href="{{assets "/favicon.ico"}}">
 
 <header class="main-header {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
     <nav class="main-nav overlay clearfix">
@@ -15,8 +15,6 @@ icon: "./assets/favicon.ico"
             {% endif %}
         <a class="subscribe-button icon-feed" href="{{ site.baseurl }}rss.xml">Subscribe</a>
     </nav>
-
-    <link rel="shortcut icon" href="{{asset "/favicon.ico"}}">
 
     <div class="vertical">
         <div class="main-header-content inner">
