@@ -11,4 +11,7 @@ spending time with my family at home.
 
 Find me on:[Twitter](https://twitter.com/filipkmn), [Facebook](https://facebook.com/filipkmn), [LinkedIn](https://www.linkedin.com/in/filipkomnenovic) and [GitHub](https://github.com/filipkmn)  
 
-![Image of Yaktocat](./assets/images/cover.png)
+![Image of Fiko](./assets/images/cover.png)
+
+*_Disclaimer:_ This blog may contain traces of amateur photography, personal 
+opinions, cases of glorifying Srem and food criticism.*
