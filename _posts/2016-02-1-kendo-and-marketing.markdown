@@ -5,7 +5,7 @@ date:   2016-02-01 10:18:00
 categories: Kendo
 ---
 
-*Personal opinion warning!!! This post is mostly about my views on how Kendo and how it may help you in everyday life.*
+*Personal opinion warning!!! This post is mostly about my views on Kendo and how it may help you in everyday life.*
 
 ![Kendoka of Fiko](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/kendo-marketing/kendo.png?raw=true)
 
