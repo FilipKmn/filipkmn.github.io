@@ -6,7 +6,7 @@ categories: Kendo
 ---
 
 
-*Personal opinion warning!!! This post is mostly about my views on how Kendo and how it helps oneself in everyday life.*
+*Personal opinion warning!!! This post is mostly about my views on how Kendo and how it may help in everyday life.*
 
 ![Kendoka of Fiko](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/kendo.png?raw=true)
 
@@ -20,11 +20,11 @@ I'll take a shortcut on explaining further what's Kendo. Tadammm, here's a video
 
 *disclosure: it may seem intimidating, painful or even funny watching*
 
-[![Working Within - The Art of Kendo](<img src="/assets/images/kendo-marketing/kendo1.png"/>)](https://youtu.be/4DvmVFd5Jb8 "Working Within - The Art of Kendo")
+[![Working Within - The Art of Kendo](<https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/kendo-marketing/kendo1.png?raw=true)](https://youtu.be/4DvmVFd5Jb8)
 
 I couldn't resist it, here is another great video.
 
-[![Warriors of Budo - Kendo](<img src="/assets/images/kendo-marketing/kendo1.png"/>)](https://youtu.be/ueD5jaJQBiQ "Warriors of Budo - Kendo")
+[![Warriors of Budo - Kendo](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/kendo-marketing/kendo2.png?raw=true)](https://youtu.be/ueD5jaJQBiQ)
 
 OK now that you have seen Kendo in action and heard better explanations on what's Kendo, from people that have a more deeper understanding of Kendo than me, I can share with you some of my experiences and thoughts.
 
