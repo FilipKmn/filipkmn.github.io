@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kendo and Marketing"
-date:   2016-01-31 10:18:00
+date:   2016-02-01 10:18:00
 categories: Kendo
 ---
 
