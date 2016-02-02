@@ -8,7 +8,7 @@ categories: Kendo
 
 *Personal opinion warning!!! This post is mostly about my views on how Kendo and how it helps oneself in everyday life.*
 
-![Kendoka Fiko](./assets/images/kendo.png)
+![Kendoka of Fiko](./assets/images/kendo.png)
 
 Ok, I'll be cut to the point at the start. I'm going to try to "sell" you the idea of training Kendo. Why? Because it's good for you.
 
