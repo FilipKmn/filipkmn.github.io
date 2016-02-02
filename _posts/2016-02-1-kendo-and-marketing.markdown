@@ -5,10 +5,9 @@ date:   2016-02-01 10:18:00
 categories: Kendo
 ---
 
-![Kendoka of Fiko](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/kendo-marketing/kendo.png?raw=true)
+*Personal opinion warning!!! This post is mostly about my views on how Kendo and how it may help you in everyday life.*
 
-*Personal opinion warning!!!
-This post is mostly about my views on how Kendo and how it may help in everyday life.*
+![Kendoka of Fiko](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/kendo-marketing/kendo.png?raw=true)
 
 Ok, I'll be cut to the point at the start. I'm going to try to "sell" you the idea of training Kendo. Why? Because it's good for you.
 
