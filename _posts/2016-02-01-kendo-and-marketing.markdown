@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Kendo and Marketing"
+date:   2016-02-01 10:18:00
+categories: Kendo
+---
 
 *Personal opinion warning!!! This post is mostly about my views on Kendo and how it helps through everyday life.*
 
@@ -9,7 +15,7 @@ You're not going to gain a Bruce Lee body from doing Kendo (although that happen
 
 Huh, the last sentence sounded a bit unrealistic and even somewhat spiritual. Kendo has that "mind over body" aspect planted deeply in its learning. Over the years of practicing you start to see how your body is limited and how it has a strong tie with you mind, or/and spirit. Seemingly, a purely physical activity of sword fighting becomes a way of improving the state of mind.  
 
-On the other hand, it does have physical benefits. Kendo is great cardio, it sharpens the senses in the everyday situations, shortens reaction time and helps develop a deeper focus. Strong mind, strong body. 
+On the other hand, it does have physical benefits. Kendo is great cardio, it sharpens the senses in the everyday situations, shortens reaction time and helps develop a deeper focus. Strong mind, strong body.
 
 Enough from me. Time for a shortcut. Tadammm, here's a video. Probably the best introduction to Kendo for people who have never heard of or seen Kendo before.
 
@@ -25,9 +31,9 @@ OK, now that you have seen Kendo in action and heard explanations on Kendo, from
 
 ###Simplicity
 
-One of the first lessons you learn in Kendo is simplicity. Simplicity is the way. The other lesson you learn when you practice Kendo is that achieving simplicity is hard. O'boy is it hard. 
+One of the first lessons you learn in Kendo is simplicity. Simplicity is the way. The other lesson you learn when you practice Kendo is that achieving simplicity is hard. O'boy is it hard.
 
-Complicating things just isn't the way to go forward. Even if something is flashier, with all of the bells and whistles around it, it's not necessarily better, contrary. It’s the opposite of that wich makes something/someone great. This applies to Kendo, everyday life, and, of course, the art of marketing. 
+Complicating things just isn't the way to go forward. Even if something is flashier, with all of the bells and whistles around it, it's not necessarily better, contrary. It’s the opposite of that wich makes something/someone great. This applies to Kendo, everyday life, and, of course, the art of marketing.
 
 In Kendo, the simpler your moves are and the simpler your strike is the better fighter you become. In marketing, the simpler you write, the clearer you message is and more customers get to understand it. Simplicity is hard to achieve, sure, and it takes a lot of work, but taking the easy path is never the best path. At least, I see it like that. Right?
 
@@ -37,7 +43,7 @@ Doing something as simple as possible is a challenge and a hard one — simple i
 
 ###Playing the "mind games"
 
-As a beginner, you start noticing that with Kendo as you practice your body, you start practicing your mind. As you progress you start to practice the mind more and more and the body on the same level (better be said you keep it at a constant level). This is the real game changer in training Kendo. Realizing that in a physical discipline, you train the mind more intensively than the body. 
+As a beginner, you start noticing that with Kendo as you practice your body, you start practicing your mind. As you progress you start to practice the mind more and more and the body on the same level (better be said you keep it at a constant level). This is the real game changer in training Kendo. Realizing that in a physical discipline, you train the mind more intensively than the body.
 
 "If your mind breaks, your body breaks as well and you die. If you can’t predict what your opponent is going to do, you die. If you can’t keep focus, you die. So much of kendo is about your mental abilities." Sounds drastic, but Kendo was developed with the goal of becoming a better warrior and not getting killed on the battlefields. Remember the Samurai? Kendo has a deep tie with the Samurai past, I'm not going to talk further about this, for obvious reasons.
 
@@ -51,7 +57,7 @@ Every move in Kendo is an opportunity to make the mind stronger. In fact, a stro
 
 After only practicing Kendo for more than 12 years I feel as an absolute beginner. I'm liking it that way. :)
 
-I want to be a beginner for life. I really don't know much about Kendo or for the matter of fact neither about marketing, or life. But, I want to learn and find out more. 
+I want to be a beginner for life. I really don't know much about Kendo or for the matter of fact neither about marketing, or life. But, I want to learn and find out more.
 
 Personally, and probably most of Kendo people would agree with me, ego is the biggest problem. Ego is the one that stops from you acknowledging you are a beginner. Ego stops you advancing. Kendo is the terminator of one's ego. It lets you see your flaws and helps you see yourself in a more objective way.
 
@@ -69,7 +75,7 @@ Fun fact: Kendo has been an inspiration for the Star Wars saga. [Mark Hamil will
 
 ###In short  
 
-For me, Kendo is that endless spiritual journey. It has a much deeper meaning than I could even begin to describe or write about. It helps me evolve. It's a force that keeps me going through the toughest of times. 
+For me, Kendo is that endless spiritual journey. It has a much deeper meaning than I could even begin to describe or write about. It helps me evolve. It's a force that keeps me going through the toughest of times.
 
 I'm thankful that I can do Kendo and I'm deeply grateful to all before me that made it possible for me to practice it.
 
@@ -92,7 +98,7 @@ Purpose
 * To love one's country and society;
 * To contribute to the development of culture;
 * And to promote peace and prosperity among all peoples.
- 
+
 
 'till next time,
 arigato and sayonara! 🎌🌊
