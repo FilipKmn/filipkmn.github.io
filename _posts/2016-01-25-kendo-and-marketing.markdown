@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Kendo and Marketing"
-date:   2016-02-01 10:18:00
+title:  "Kendo and marketing"
+date:   2016-01-25 10:18:00
 categories: Kendo
 ---
 
 *Personal opinion warning!!! This post is mostly about my views on Kendo and how it helps through everyday life.*
 
-![Kendoka of Fiko](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/kendo-marketing/kendo.png?raw=true)
+![Kendoka Fiko](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/kendo-marketing/kendo.png?raw=true)
 
 I don’t want to talk too much in depth about what's Kendo in the very beginning. I'm affraid I'll bore you with my old man Filip's Kendo tales. Simply put, Kendo helps you become a better human being. This is a grand statement for something that seems to be a mere physical activity. Although it's true.
 

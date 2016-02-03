@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Marketing channel analysis"
+date:   2016-02-03 10:18:00
+categories: Marketing
+---
+
+*Mastering the concept of Ikigai 生き甲斐*
+
+![Ikigai drawn](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/ikigai/ikigai1.png?raw=true)
+
+Just recently, I had a rather long and profound talk about the life/work balance with one of my closest friends. At the end of the talk, we both agreed that we need to be more happy and content when at work.
+
+That same evening I stumbled upon the Japanese concept of Ikigai - "a reason for being". It's really simple, so simple it's represented best by a diagram. Look!
+
+![Ikigai diagram](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/ikigai/ikigai.png?raw=true)
+
+Enough from me. [Read more about Ikigai](https://en.wikipedia.org/wiki/Ikigai) or [watch a TED talk](https://www.ted.com/talks/dan_buettner_how_to_live_to_be_100?language=en) about the concept of Ikigai.
+
+'till next time.
+Take care and have a great day!⛩
