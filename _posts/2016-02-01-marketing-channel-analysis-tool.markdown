@@ -24,7 +24,7 @@ Having a simple, easy to understand spreadsheet with analysed data helps markete
 
 Back to data. Data is gathered by experimenting, just like in a lab. Experimenting on a steady basis and keeping track of data gives a set more reliable results in the long run. Gaining learnings on customer behaviour and consequentially making data-informed decisions gets easier as you develop your system/s  (it's actually fun to do).
 
-##Getting to the point — making the channel analysis spreadsheet
+##Making the channel analysis spreadsheet
 
 Track everything... well, maybe not. Be selective on what you track. Depending on the stage your business/startup is at you should track only the data that is relative.
 
