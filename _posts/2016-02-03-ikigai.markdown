@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Priciple of Ikigai"
+title:  "Principle of Ikigai"
 date:   2016-02-03 10:18:00
 categories: Life :)
 ---
@@ -11,7 +11,9 @@ categories: Life :)
 
 Just recently, I had a rather long and profound talk about the life/work balance with one of my closest friends. At the end of the talk, we both agreed that we need to be more happy and content when at work.
 
-That same evening I stumbled upon the Japanese concept of Ikigai - "a reason for being". It's really simple, so simple it's represented best by a diagram. Look!
+That same evening I stumbled upon the Japanese concept of Ikigai - "a reason for being". It's really simple, so simple it's represented best by a diagram.
+
+Look!
 
 ![Ikigai diagram](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/ikigai/ikigai.png?raw=true)
 
