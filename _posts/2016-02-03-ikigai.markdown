@@ -3,7 +3,6 @@ layout: post
 title:  "Principle of Ikigai"
 date:   2016-02-03 10:18:00
 categories: Life :)
-thumbnail: https://raw.githubusercontent.com/FilipKmn/filipkmn.github.io/master/assets/images/ikigai/ikigai1.png
 ---
 
 *Mastering the concept of Ikigai 生き甲斐*
