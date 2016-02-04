@@ -6,15 +6,15 @@ markdown: redcarpet
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: http://filipkmn.github.io/
+baseurl: /
 domain_name: 'http://filipkmn.github.io/'
 google_analytics: 'UA-73151731-1'
 
 # Details for the RSS feed generator
-url:            'filipkmn@github.io'
+url:            'http://filipkmn.github.io'
 author:         'Filip Komnenovic'
   facebook:     filip.kmn
   twitter:      filipkmn
-  google_plus:  115361850116162945128/
+  google_plus:  115361850116162945128
 fb_admins:      100007979086072
 fb_appid:       your facebook app id
