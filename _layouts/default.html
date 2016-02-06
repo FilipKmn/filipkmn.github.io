@@ -18,9 +18,41 @@
     <!-- Customisation  -->
     <link rel="stylesheet" type="text/css" href="/assets/css/main.css" />
 
-<!--fb graph added -->
-
-<!-- end :)-->
+    <!--fb graph and twitter card added -->
+    <meta content="{{ site.title }}" property="og:site_name">
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@filipkmn" />
+	  {% if page.title %}
+	    <meta content="{{ page.title }}" property="og:title">
+      <meta content="article" property="og:type">
+      <meta name="twitter:title" content="{{ page.title }}" />
+	  {% else %}
+	    <meta content="{{ site.title }}" property="og:title">
+      <meta content="website" property="og:type">
+      <meta name="twitter:title" content="{{ site.title }}" />
+	  {% endif %}
+	  {% if page.description %}
+	    <meta content="{{ page.description }}" property="og:description">
+      <meta name="twitter:description" content="{{ page.description }}" />
+	  {% else %}
+	    <meta content="{{ site.description }}" property="og:description">
+      <meta name="twitter:description" content="{{ site.description }}" />
+	  {% endif %}
+	  {% if page.url %}
+	    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+      <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
+	  {% endif %}
+	  {% if page.date %}
+	    <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+	    <meta content="{{ site.url }}/about/" property="article:author">
+	  {% endif %}
+	  {% if page.image %}
+	    <meta content="{{ page.image }}" property="og:image">
+      <meta name="twitter:image" content="{{ page.image }}" />
+	  {% else %}
+	    <meta content="https://filipkmn.github.com/assets/images/cover.png" property="og:image">
+	  {% endif %}
+    <!-- end :)-->
 
 </head>
 <body class="{% if page.post_class %}{{page.post_class}}{% else %}home-template{% endif %}">

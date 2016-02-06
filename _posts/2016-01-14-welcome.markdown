@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to my blog!"
 date:   2016-01-14 10:18:00
 categories: Welcome
+description: "No interesting content here. Yet!"
 ---
 
 No interesting content here. Yet!

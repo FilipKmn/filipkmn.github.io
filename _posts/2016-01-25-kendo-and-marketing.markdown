@@ -3,6 +3,8 @@ layout: post
 title:  "Kendo and marketing"
 date:   2016-01-25 10:18:00
 categories: Kendo
+image: "filipkmn.github.io/assets/images/kendo-marketing/kendo.png"
+description: "Personal opinion warning!!! This post is mostly about my views on Kendo and how it helps through everyday life."
 ---
 
 *Personal opinion warning!!! This post is mostly about my views on Kendo and how it helps through everyday life.*
