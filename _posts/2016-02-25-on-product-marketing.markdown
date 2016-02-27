@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On product marketing"
-date:   2016-02-26 10:18:00
+date:   2016-02-25 10:18:00
 categories: Marketing
 ---
 
@@ -20,3 +20,6 @@ Foremost, product marketing should focus on getting to know and understand the m
 Often it's a case that in startups only the engineers develop the product. That's wrong. Product marketing has the same responsibility of developing a quality product as engineering does, hence the product in the title. In my mind, engineers build products "vital organs", its insides. Desing builds the outer skin. Product marketing gives the product a soul, a voice and a character. These three "forces", engineering, design, and marketing, working together make a product stand out at  the market.
 
 All said, product marketing is involved in product strategy and product development, product launch, go-to-market strategy and tactics. Who wouldn’t want to do that? :)
+
+'till next time.
+Take care and have a great day!
