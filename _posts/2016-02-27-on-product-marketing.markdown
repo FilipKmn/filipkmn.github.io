@@ -5,7 +5,7 @@ categories: Marketing
 ---
 *Personal opinion warning!!! This post is mostly about my views on what is a job of a product marketer in a startup.*
 
-Soon I'm to begin a new chapter in my professional life as apart of the drytools team. It's a bit sad to leave such a great team behind and it's going to be hard not seeing all of those familiar faces. Sad time over. Woot, drytools here I come!
+Soon I'm to begin a new chapter in my professional life as apart of the [DryTools](drytools.co) team. It's a bit sad to leave such a great team behind and it's going to be hard not seeing all of those familiar faces. Sad time over. Woot, drytools here I come!
 
 ![Product Marketing](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/on-product-marketing/product-marketing.png?raw=true)
 
