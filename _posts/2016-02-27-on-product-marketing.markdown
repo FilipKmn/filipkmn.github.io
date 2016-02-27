@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On product marketing"
-date:   2016-02-25 10:18:00
+date:   2016-02-27 10:18:00
 categories: Marketing
 ---
 
