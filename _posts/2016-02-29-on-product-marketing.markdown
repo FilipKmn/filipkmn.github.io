@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Welcome to my blog!"
-date:   2016-01-14 10:18:00
+date:   2016-02-29 10:18:00
 categories: Welcome
 description: "On product marketing"
-mage_fb: "filipkmn.github.io/assets/images/kendo-marketing/kendo-fb.png"
-image_tw: "filipkmn.github.io/assets/images/kendo-marketing/kendo-fb.png"
+mage_fb: "filipkmn.github.io/assets/images/on-product-marketing/product-marketing.png.png"
+image_tw: "filipkmn.github.io/assets/images/on-product-marketing/product-marketing.pngpng"
 description: "Personal opinion warning!!! This post is mostly about my views on product marketing."
 ---
 
