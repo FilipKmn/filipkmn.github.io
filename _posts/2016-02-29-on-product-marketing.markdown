@@ -3,10 +3,6 @@ layout: post
 title:  "On product marketing"
 date:   2016-02-29 10:18:00
 categories: Marketing
-description: "On product marketing"
-mage_fb: "filipkmn.github.io/assets/images/on-product-marketing/product-marketing.png.png"
-image_tw: "filipkmn.github.io/assets/images/on-product-marketing/product-marketing.pngpng"
-description: "Personal opinion warning!!! This post is mostly about my views on product marketing."
 ---
 
 Soon I'm to begin a new chapter in my professional life as apart of the drytools team. It's a bit sad to leave such a great team behind and it's going to be hard not seeing all of those familiar faces. Sad time over. Woot, drytools here I come!
