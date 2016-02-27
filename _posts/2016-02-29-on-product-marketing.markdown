@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to my blog!"
+title:  "On product marketing"
 date:   2016-02-29 10:18:00
-categories: Welcome
+categories: Marketing
 description: "On product marketing"
 mage_fb: "filipkmn.github.io/assets/images/on-product-marketing/product-marketing.png.png"
 image_tw: "filipkmn.github.io/assets/images/on-product-marketing/product-marketing.pngpng"
