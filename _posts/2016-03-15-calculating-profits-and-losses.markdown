@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Calculate your marketing profits and losses"
+title:  "Calculating marketing profits and losses"
 categories: Marketing
 ---
 *Learn how to make a simple profits and losses overview spreadsheet and never get lost in the data and $ again.*
