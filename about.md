@@ -15,9 +15,9 @@ _Fun fact:_ Learned the most when the startup I co-funded burned and crashed bac
 
 
 
-### Experience:
+### Work Experience:
 
-<br>
+
 
 **[Alchemy](https://alchemy.cloud/)** — _Product Marketing_
 
@@ -57,7 +57,7 @@ Univerexport, one of the biggest retailers in Serbia. While studying, I've gotte
 
 ### Freelance:
 
-<br>
+
 
 [Danulabs](https://www.m-pioneers.com/) — Helping a software consultancy grow their client base 
 
@@ -69,13 +69,16 @@ Univerexport, one of the biggest retailers in Serbia. While studying, I've gotte
 
 ### Free time:
 
-<br>
 
 [Marketing Community Serbia](https://www.facebook.com/groups/marketing.zajednica/) — Founder/Host
 
 [Startup Weekend Novi Sad](http://swns.nstarter.co/) — Mentor
 
 [nStarter](nstarter.co) — Mentor
+
+<br>
+
+### Social
 
 
 Find me on: [Twitter](https://twitter.com/filipkmn), [LinkedIn](https://www.linkedin.com/in/filipkomnenovic) and [GitHub](https://github.com/filipkmn)  
