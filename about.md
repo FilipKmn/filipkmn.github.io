@@ -11,7 +11,7 @@ When not working, you’ll find me cultivating a vigorous spirit through the mar
 
 _Fun fact:_ Learned the most when the startup I co-funded burned and crashed back in 2012.
 
-![Fica Kendo]({{site.baseurl}}/https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/sketch1458635366715.png?raw=true)
+![Fica Kendo](/https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/sketch1458635366715.png?raw=true)
 
 
 
@@ -57,6 +57,7 @@ Univerexport, one of the biggest retailers in Serbia. While studying, I've gotte
 
 ### Freelance:
 
+<br>
 
 [Danulabs](https://www.m-pioneers.com/) — Helping a software consultancy grow their client base 
 
@@ -68,6 +69,7 @@ Univerexport, one of the biggest retailers in Serbia. While studying, I've gotte
 
 ### Free time:
 
+<br>
 
 [Marketing Community Serbia](https://www.facebook.com/groups/marketing.zajednica/) — Founder/Host
 
