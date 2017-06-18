@@ -5,9 +5,9 @@ published: true
 ---
 
 
-Product guy with marketing in his heart and tech in his blood. Love to build exceptional software that helps people.
+Product guy with marketing in his heart and tech in his blood. Love building exceptional software that ends up helping people.
 
-When not working, you’ll find me cultivating a vigorous spirit through the martial art of Kendo, hanging out in the forest with my mountain bike, with a big happy grin, and occasionally I snap a few photos — rarely people comment that they are good. One day I hope to learn to fly (a plane).
+When not working, you’ll find me cultivating a vigorous spirit through the martial art of Kendo, hanging out in the forest with my mountain bike, with a big happy grin, and snapping photos every once in a while — rarely people comment that they are good. One day I hope to fulfill my boyhood dream and learn to fly (a plane).
 
 _Fun fact:_ Learned the most when the startup I co-funded burned and crashed back in 2012.
 
