@@ -11,6 +11,8 @@ When not working, you’ll find me cultivating a vigorous spirit through the mar
 
 _Fun fact:_ Learned the most when the startup I co-funded burned and crashed back in 2012.
 
+![Fica Kendo]({{site.baseurl}}/http://imgur.com/a/nTwsB)
+
 ### Experience:
 
 **Alchemy** — _Product Marketing_
@@ -62,8 +64,6 @@ nStarter — Mentor
 
 
 Find me on: [Twitter](https://twitter.com/filipkmn), [LinkedIn](https://www.linkedin.com/in/filipkomnenovic) and [GitHub](https://github.com/filipkmn)  
-
-![]({{site.baseurl}}/https://scontent.fbeg1-1.fna.fbcdn.net/v/t1.0-9/12592247_1703365709939382_5428746510203624673_n.jpg?oh=eb3774f99dab5b6a198204ecf25d7fa2&oe=59CAEE38)
 
 *Disclaimer: This blog may contain traces of amateur photography, personal
 opinions, cases of glorifying Srem and food criticism.*
