@@ -55,7 +55,7 @@ Univerexport, one of the biggest retailers in Serbia. While studying, I've gotte
 
 <br>
 
-### Freelance:
+### Companies I Helped:
 
 
 
@@ -83,6 +83,8 @@ Univerexport, one of the biggest retailers in Serbia. While studying, I've gotte
 
 
 Find me on: [Twitter](https://twitter.com/filipkmn), [LinkedIn](https://www.linkedin.com/in/filipkomnenovic) and [GitHub](https://github.com/filipkmn)  
+
+
 
 *Disclaimer: This blog may contain traces of amateur photography, personal
 opinions, cases of glorifying Srem and food criticism.*
