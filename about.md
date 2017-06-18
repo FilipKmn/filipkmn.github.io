@@ -11,7 +11,7 @@ When not working, you’ll find me cultivating a vigorous spirit through the mar
 
 _Fun fact:_ Learned the most when the startup I co-funded burned and crashed back in 2012.
 
-![Fica Kendo](/https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/sketch1458635366715.png?raw=true)
+![Fica Kendo](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/sketch1458635366715.png?raw=true)
 
 
 
