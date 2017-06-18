@@ -13,7 +13,10 @@ _Fun fact:_ Learned the most when the startup I co-funded burned and crashed bac
 
 ![Fica Kendo]({{site.baseurl}}/http://imgur.com/a/nTwsB)
 
+
+
 ### Experience:
+
 
 **Alchemy** — _Product Marketing_
 
@@ -50,13 +53,20 @@ I've learned the ropes about digital marketing, from SEO and content marketing t
 Univerexport, one of the biggest retailers in Serbia. While studying, I've gotten a chance to be a part of the team that built the first online retail application on the Serbian market, eLakolije.
 
 
+
 ### Freelance:
 
+
 Danulabs — Helping a software consultancy grow their client base 
+
 Homepage — Working together on projects and educating the staff at the creative digital agency
+
 CaliVita – Localization and digital marketing services to a global brand
 
+
+
 ### Free time:
+
 
 Marketing Community Serbia — Founder/Host
 Startup Weekend Novi Sad — Mentor
