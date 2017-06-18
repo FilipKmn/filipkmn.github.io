@@ -67,18 +67,19 @@ Univerexport, one of the biggest retailers in Serbia. While studying, I've gotte
 
 <br>
 
-### Free time:
+### Free Time:
 
 
-[Marketing Community Serbia](https://www.facebook.com/groups/marketing.zajednica/) — Founder/Host
+[Marketing Community Serbia](https://www.facebook.com/groups/marketing.zajednica/) — Co-organiser
 
 [Startup Weekend Novi Sad](http://swns.nstarter.co/) — Mentor
 
 [nStarter](nstarter.co) — Mentor
 
+
 <br>
 
-### Social
+### Social:
 
 
 Find me on: [Twitter](https://twitter.com/filipkmn), [LinkedIn](https://www.linkedin.com/in/filipkomnenovic) and [GitHub](https://github.com/filipkmn)  
