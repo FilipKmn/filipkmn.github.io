@@ -11,12 +11,13 @@ When not working, you’ll find me cultivating a vigorous spirit through the mar
 
 _Fun fact:_ Learned the most when the startup I co-funded burned and crashed back in 2012.
 
-![Fica Kendo]({{site.baseurl}}/http://imgur.com/a/nTwsB)
+![Fica Kendo]({{site.baseurl}}/https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/sketch1458635366715.png?raw=true)
 
 
 
 ### Experience:
 
+<br>
 
 **[Alchemy](https://alchemy.cloud/)** — _Product Marketing_
 
@@ -30,7 +31,7 @@ Developing [Sifu](https://codesifu.com/) — software development tool that made
 
 Working on Sifu was great, I was the only non-tech person there and was leading all of the marketing efforts as both doing some business development.
 
-**[Rendered Text](http://renderedtext.com/)**— _Marketing and Analytics [and more]_
+**[Rendered Text](http://renderedtext.com/)** — _Marketing and Analytics [and more]_
 
 Making Semaphore happen and helping software development teams move faster with it's hosted continuous integration and delivery service. With over thousand customers including Intel, Ebay, 500px Semaphore is making a real bang in the development community.
 
