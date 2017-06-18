@@ -53,7 +53,7 @@ I've learned the ropes about digital marketing, from SEO and content marketing t
 
 Univerexport, one of the biggest retailers in Serbia. While studying, I've gotten a chance to be a part of the team that built the first online retail application on the Serbian market, eLakolije.
 
-
+<br>
 
 ### Freelance:
 
@@ -65,7 +65,7 @@ Univerexport, one of the biggest retailers in Serbia. While studying, I've gotte
 
 [CaliVita](https://serbia.calivita.com/) — Localization and digital marketing services to a global brand
 
-
+<br>
 
 ### Free time:
 
