@@ -1,11 +1,13 @@
 ---
-published: false
+published: true
 ---
 ## Going above a DSL
 
 Recently I changed products. Feel kinda sad to be leaving my beloved Semaphore, but I felt I need a new chalenge so now I'm heading the marketing team ad dryTools and helping develop a disrupting new tech product. 
 
 First I need to give you a short introduction — meet Sifu, my teams take on what we envisioned as a better way of building web applications. The idea is to develop Spring Boot and AngularJS based applications through specifications with full control of the generated code, meaning that the generated code will be always open to any customisation and the customised code is never over run when regenerating. Also, we wanted code with no dependencies, the code must be free from Sifu. 
+
+![Sifu](https://codesifu.com/images/mascot/sifu-peace.png)
 
 That is the whole idea make apps through specifications, whilst having no dependencies, generated code that is up to every standard and being in full control of the generated code.
 
