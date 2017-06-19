@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 ---
-Soon I'm to begin a new chapter in my professional life as a part of the dryTools team. It's a bit sad to leave such a great team behind and it's going to be hard not seeing all of those familiar faces. Sad time over. Woot, dryTools here I come!
+_Soon I'm to begin a new chapter in my professional life as a part of the dryTools team. It's a bit sad to leave such a great team behind and it's going to be hard not seeing all of those familiar faces. Sad time over. Woot, dryTools here I come!_
 
 As exciting as it may be to work with a new team and a new kind of product, I feel a need to reflect on the job of a product marketer in a startup ecosystem. This blog post is going to be sort of a time capsule, intended for my future self. Can't wait to read it in a few years.
 
