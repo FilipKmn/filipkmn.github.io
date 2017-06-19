@@ -14,6 +14,7 @@ When not working, you’ll find me cultivating a vigorous spirit through the mar
 
 _Fun fact:_ Learned the most when the startup I co-funded burned and crashed back in 2013.
 
+<br>
 ### Work Experience:
 
 
