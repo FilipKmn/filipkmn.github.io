@@ -9,11 +9,10 @@ Product guy with marketing in his heart and tech in his blood. Love building exc
 
 When not working, you’ll find me cultivating a vigorous spirit through the martial art of Kendo, hanging out in the forest with my mountain bike, with a big happy grin, and snapping photos every once in a while — rarely people comment that they are good. One day I hope to fulfill my boyhood dream and learn to fly (a plane).
 
-_Fun fact:_ Learned the most when the startup I co-funded burned and crashed back in 2012.
 
 ![Fica Kendo](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/AboutMe.png?raw=true)
 
-
+_Fun fact:_ Learned the most when the startup I co-funded burned and crashed back in 2013.
 
 ### Work Experience:
 
@@ -33,7 +32,7 @@ Working on Sifu was great, I was the only non-tech person there and was leading 
 
 **[Rendered Text](http://renderedtext.com/)** — _Marketing and Analytics [and more]_
 
-Making Semaphore happen and helping software development teams move faster with it's hosted continuous integration and delivery service. With over thousand customers including Intel, Ebay, 500px Semaphore is making a real bang in the development community.
+Making [Semaphore](semaphoreci.com) happen and helping software development teams move faster with it's hosted continuous integration and delivery service. With over thousand customers including Intel, Ebay, 500px Semaphore is making a real bang in the development community.
 
 Semaphore was and is my most favorite project, and there I've worked day and night, from finding ways how to grow our user base to organizing tech events. Semaphore holds a special place in my heart and as a product best represents me as a professional product person.
 
