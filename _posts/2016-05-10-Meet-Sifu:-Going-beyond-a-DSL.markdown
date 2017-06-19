@@ -30,4 +30,6 @@ We plan on further extending Sifu with other languages such as Angular2, Scala, 
 
 We have a pretty bold statement that with Sifu you get at least 30% faster development, and to be honest you can read some of our case studies with users and believe our blue eyes, but the only way that you can really know that you give Sifu a try and see for yourself.  
 
+<i class="fa fa-linode" aria-hidden="true"></i>
+
 In the end, if you're wondering why we choose the name 'Sifu', well lets say it mean master in cantoneese. :)
