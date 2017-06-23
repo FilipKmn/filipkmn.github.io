@@ -25,4 +25,6 @@ An awesome book, making you write better every time you have read it. This book 
 
 Use it a lot. I have what they would say an excited hand, and I often go around drawing and doodling on the same paper I try to sketch an idea. Balsamiq lets me get it concise and easy to share.
 
+<hr>
+
 I'm really enthusiastic when it comes to tools and automations, and often try to experiment. Though, I think that tools are not so important, the important thing is to develop and keep optimizing the processes behind them. Tools are just fun to use and set up, but some serious thought must be implemented in the whole process, else they are useless.
