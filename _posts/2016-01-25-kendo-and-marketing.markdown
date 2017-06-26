@@ -1,6 +1,6 @@
 ---
 layout: post
-title: _posts/2016-01-25-kendo-and-marketing.markdown
+title: Kendo and Marketing
 categories: Kendo
 image_fb: filipkmn.github.io/assets/images/kendo-marketing/kendo-fb.png
 image_tw: filipkmn.github.io/assets/images/kendo-marketing/kendo-fb.png
