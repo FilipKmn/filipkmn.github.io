@@ -1,5 +1,5 @@
 ---
-title: Meet Sifu: Going Beyond a Simple DSL
+title: Meet Sifu – Going Beyond a Simple DSL
 published: true
 ---
 
