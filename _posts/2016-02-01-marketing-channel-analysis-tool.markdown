@@ -1,6 +1,6 @@
 ---
 layout: post
-title: _posts/2016-02-01-marketing-channel-analysis.markdown
+title: Marketing Channel Analysis
 categories: Marketing
 published: true
 ---
