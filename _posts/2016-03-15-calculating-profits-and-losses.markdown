@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Calculating Marketing Profits and Losses
+title: _posts/2016-03-15-calculating-marketing-profits-and-losses.markdown
 categories: Marketing
 published: true
 ---
