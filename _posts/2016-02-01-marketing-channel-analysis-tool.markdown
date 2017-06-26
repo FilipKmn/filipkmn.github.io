@@ -1,7 +1,6 @@
 ---
 layout: post
 title: _posts/2016-02-01-marketing-channel-analysis.markdown
-date: {}
 categories: Marketing
 published: true
 ---
