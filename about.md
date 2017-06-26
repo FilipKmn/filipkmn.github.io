@@ -79,7 +79,7 @@ Univerexport, one of the biggest retailers in Serbia. While studying, I've gotte
 <br>
 ### Where I've talked:
 
-UNS Faculty of Technical sciences – Guest lecturing on the product buildign mindset and how to start building a produc [from a non tech perspective]
+UNS Faculty of Technical sciences – Guest lecturing at the local Uni
 
 [IdeaLab](http://www.idealab.rs/) – Universty Acclerator
 
