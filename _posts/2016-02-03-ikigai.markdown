@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Principle of Ikigai"
-date:   2016-02-03 10:18:00
+title: _posts/2016-02-03-principle-of-ikigai.markdown
+date: {}
 categories: Life
+published: true
 ---
 
 *Mastering the concept of Ikigai 生き甲斐*
