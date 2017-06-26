@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Marketing channel analysis"
-date:   2016-02-01 10:18:00
+title: Marketing Channel Analysis
+date: {}
 categories: Marketing
+published: true
 ---
 *Learn how to make a simple spreadsheet tool for marketing channels analysis.*
 
