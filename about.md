@@ -76,6 +76,15 @@ Univerexport, one of the biggest retailers in Serbia. While studying, I've gotte
 
 [nStarter](nstarter.co) — Mentor
 
+<br>
+### Where I've talked:
+
+UNS Faculty of Technical sciences – Guest lecturing on the product buildign mindset and how to start building a produc [from a non tech perspective]
+
+[IdeaLab](http://www.idealab.rs/) – Universty Acclerator
+
+[Prevent NGO](http://prevent.org.rs/) – Digital Marketing Trainign Program for the unemployed
+
 
 <br>
 
