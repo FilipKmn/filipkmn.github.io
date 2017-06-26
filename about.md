@@ -79,11 +79,11 @@ Univerexport, one of the biggest retailers in Serbia. While studying, I've gotte
 <br>
 ### Where I've talked:
 
-UNS Faculty of Technical sciences – Guest lecturing at the local Uni
+UNS Faculty of Technical sciences — Guest lecturing at the local Uni
 
-[IdeaLab](http://www.idealab.rs/) – Universty Acclerator
+[IdeaLab](http://www.idealab.rs/) — Universty Acclerator
 
-[Prevent NGO](http://prevent.org.rs/) – Digital Marketing Trainign Program for the unemployed
+[Prevent NGO](http://prevent.org.rs/) — Digital Marketing Trainign Program for the unemployed
 
 
 <br>
