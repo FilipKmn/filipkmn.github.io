@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "Kendo and marketing"
-date:   2016-01-25 10:18:00
+title: Kendo and Marketing
+date: {}
 categories: Kendo
-image_fb: "filipkmn.github.io/assets/images/kendo-marketing/kendo-fb.png"
-image_tw: "filipkmn.github.io/assets/images/kendo-marketing/kendo-fb.png"
-description: "Personal opinion warning!!! This post is mostly about my views on Kendo and how it helps through everyday life."
+image_fb: filipkmn.github.io/assets/images/kendo-marketing/kendo-fb.png
+image_tw: filipkmn.github.io/assets/images/kendo-marketing/kendo-fb.png
+description: >-
+  Personal opinion warning!!! This post is mostly about my views on Kendo and
+  how it helps through everyday life.
+published: true
 ---
 
 *Personal opinion warning!!! This post is mostly about my views on Kendo and how it helps through everyday life.*
