@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "On product marketing"
+title: On Product Marketing
 categories: Marketing
+published: true
 ---
 *Personal opinion warning!!! This post is mostly about my views on what is a job of a product marketer in a startup.*
 
