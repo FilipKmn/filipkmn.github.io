@@ -1,12 +1,3 @@
----
-layout: post
-title: _posts/2016-01-14-welcome-to-my-blog.markdown
-date: {}
-categories: Welcome
-description: No interesting content here. Yet!
-published: true
----
-
 No interesting content here. Yet!
 
 ![Content coming](https://media0.giphy.com/media/1dr4D4zxSlOEM/200.gif)
