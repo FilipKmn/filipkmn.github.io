@@ -1,6 +1,6 @@
 ---
 layout: post
-title: _posts/2016-02-27-on-product-marketing.markdown
+title: On Product Marketing
 categories: Marketing
 published: true
 ---
