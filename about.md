@@ -83,7 +83,7 @@ UNS Faculty of Technical sciences — Guest lecturing at the local Uni
 
 [IdeaLab](http://www.idealab.rs/) — Universty Acclerator
 
-[Prevent NGO](http://prevent.org.rs/) — Digital Marketing Trainign Program for the unemployed
+[Prevent NGO](http://prevent.org.rs/) — Digital marketing trainign program for the unemployed
 
 
 <br>
