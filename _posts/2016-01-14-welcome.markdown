@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Welcome to my blog!"
-date:   2016-01-14 10:18:00
+title: Welcome to My Blog!
+date: {}
 categories: Welcome
-description: "No interesting content here. Yet!"
+description: No interesting content here. Yet!
+published: true
 ---
 
 No interesting content here. Yet!
