@@ -1,7 +1,10 @@
 ---
-title: Meet Sifu: Going Beyond a DSL
+layout: post
+title: Meet Sifu: Going Beyond a Simple DSL
+categories: Life
 published: true
 ---
+
 _Recently I left the beloved Semaphore and my team back at Rendered text, hence there is a new product in my life. Meet Sifu!_
 
 Recently I changed products. Feel kinda sad to be leaving my beloved Semaphore, but I felt I need a new chalenge so now I'm heading the marketing team ad dryTools and helping develop a disrupting new tech product. 
