@@ -1,6 +1,6 @@
 ---
 layout: post
-title: _posts/2016-02-03-principle-of-ikigai.markdown
+title: Principle of Ikigai
 categories: Life
 published: true
 ---
