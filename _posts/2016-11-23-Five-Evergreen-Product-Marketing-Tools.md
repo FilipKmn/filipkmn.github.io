@@ -1,4 +1,5 @@
 ---
+categories: Product
 published: true
 ---
 _As a product marketer one is heavy on both marketing and product tasks, so the toolset of a product marketing person must reflect one self and the team building the product._
