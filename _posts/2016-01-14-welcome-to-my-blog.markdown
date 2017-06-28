@@ -1,11 +1,9 @@
+
 ---
 layout: post
 categories: Bloging
-description: >-
-No interesting content here. Yet!
 published: true
 ---
-
 
 No interesting content here. Yet!
 
