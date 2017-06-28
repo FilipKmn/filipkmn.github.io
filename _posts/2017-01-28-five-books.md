@@ -1,5 +1,6 @@
 ---
-published: false
+category: Product
+published: true
 ---
 _Product Marking is a mess of a job. A lovely mess but still a mess. According to the job description, you are somewhere in between a product developer and a full-stack marketer._
 
