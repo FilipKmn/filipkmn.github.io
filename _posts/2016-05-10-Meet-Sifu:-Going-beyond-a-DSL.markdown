@@ -1,5 +1,6 @@
 ---
 title: Meet Sifu – Going Beyond a Simple DSL
+categories: Work
 published: true
 ---
 
