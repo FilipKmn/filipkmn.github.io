@@ -1,4 +1,5 @@
 ---
+categories: Moving On 
 published: true
 ---
 _Soon I'm to begin a new chapter in my professional life as a part of the dryTools team. It's a bit sad to leave such a great team behind and it's going to be hard not seeing all of those familiar faces. Sad time over. Woot, dryTools here I come!_
