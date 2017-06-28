@@ -1,5 +1,6 @@
 ---
 category: Product
+title: The Five Product Marketing Books that Never Get Old
 published: true
 ---
 _Product Marking is a mess of a job. A lovely mess but still a mess. According to the job description, you are somewhere in between a product developer and a full-stack marketer._
