@@ -1,4 +1,5 @@
 ---
+categories: Marketing
 published: true
 ---
 _My rant on how the term growth hacking gets on my nerves_
