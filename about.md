@@ -35,7 +35,7 @@ Working on Sifu was great, I was the only non-tech person there and was leading 
 
 **[Rendered Text](http://renderedtext.com/)** — _Marketing and Analytics [and more]_
 
-Making [Semaphore](semaphoreci.com) happen and helping software development teams move faster throught development thanks to our product — a hosted continuous integration and delivery service. With over thousand customers including the likes of Intel, Ebay, 500px Semaphore is making a real bang in the development community.
+Making [Semaphore](https://semaphoreci.com) happen and helping software development teams move faster throught development thanks to our product — a hosted continuous integration and delivery service. With over thousand customers including the likes of Intel, Ebay, 500px Semaphore is making a real bang in the development community.
 
 Semaphore was and is my most favorite product. I've worked day and night, and all wiht a smile. From finding ways how to grow our user base to organizing tech events. Semaphore holds a special place in my heart and as a product best represents me as a professional product person.
 
