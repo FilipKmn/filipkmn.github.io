@@ -21,7 +21,7 @@ _Fun fact:_ Learned the most when the startup I co-founded burned and crashed ba
 <br>
 ### Work Experience:
 
-
+![](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/fiko.png?raw=true)
 
 **[Alchemy](https://alchemy.cloud/)** — _Product Marketing_
 
