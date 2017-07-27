@@ -8,13 +8,13 @@ I love creating all sorts of things and software for that matter!
 
 What motivates me to create outstanding products is the pure joy of building a piece of software that will help out people in their everyday lives.
 
-I'd say that I’m a cheerful guy, with marketing in heart and tech in blood. Loving every single moment behind the long journey of building an exceptional piece of software that end's up changing our world.
+I'd say that I’m a cheerful guy, with marketing in heart and tech in blood. Loving every single moment of the long and tedious journey that stand behind building an exceptional piece of software — that ends up changing our world.
 
-When not working, you’ll find me cultivating a vigorous spirit through the martial art of Kendo, hanging out in the forest with my mountain bike, and snapping photos every once in a while — seldom people comment that they are any good. One day I hope to fulfill my boyhood dream and learn to fly (a plane).
+When not working, you’ll find me cultivating a vigorous spirit through the martial art of Kendo, hanging out in the forest with my mountain bike, and snapping photos every once in a while — seldom people comment that they are any good though. One day I hope to fulfill my boyhood dream and learn to fly (a plane).
 
 ![Fica Kendo](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/AboutMe.png?raw=true)
 
-_Fun fact:_ Learned the most when the startup I co-funded burned and crashed back in 2013.
+_Fun fact:_ Learned the most when the startup I co-founded burned and crashed back in 2013.
 
 <br>
 ### Work Experience:
@@ -35,25 +35,27 @@ Working on Sifu was great, I was the only non-tech person there and was leading 
 
 **[Rendered Text](http://renderedtext.com/)** — _Marketing and Analytics [and more]_
 
-Making [Semaphore](https://semaphoreci.com) happen and helping software development teams move faster throught development thanks to our product — a hosted continuous integration and delivery service. With over thousand customers including the likes of Intel, Ebay, 500px Semaphore is making a real bang in the development community.
+Making [Semaphore](https://semaphoreci.com) happen and helping software development teams move faster through development thanks to our product — a hosted continuous integration and delivery service. With over thousand customers including the likes of Intel, eBay, 500px Semaphore is making a real bang in the development community.
 
-Semaphore was and is my most favorite product. I've worked day and night, and all wiht a smile. From finding ways how to grow our user base to organizing tech events. Semaphore holds a special place in my heart and as a product best represents me as a professional product person.
+Semaphore was and is my most favorite product. I've worked day and night on developing Semaphore — always with a big smile. From finding ways how to grow the user base to organizing tech events. 
+
+Semaphore holds a special place in my heart and as a product best represents me as a professional product person.
 
 **[Prognosis IT](http://www.renator.net/)** — _Junior Product Manager_
 
-Got through the thick of it while learning how to deliver my first cloud-based application. 
+Got through the thick of it while learning how to deliver my first cloud application. 
 
-The first major project I was involved with, a social network for the Sweedish market. A big stepping stone for me, learning how to get requirements from clients and deliver software on time.
+The first major cloud product I was involved with – a social network for the Sweedish market. A big stepping stone for me, learning how to get requirements from clients and deliver software on time.
 
 **[Dejan Marketing](https://dejanseo.com.au/)** — _Online Marketing Coordinator_
 
 Working for a digital marketing agency isn't as dull as it is sound, as long as you are set on learning the most you can and moving on even faster.
 
-I've learned the ropes on digital marketing here, from SEO and content marketing to A/B testing. Not all the projects were cool, like working on optimizing the website for an garage door reseller, but some were awesome, like working for on of Expedia's spin-offs.
+I've learned the ropes on digital marketing here, from SEO and content marketing to A/B testing. Not all the projects were cool, like working on optimizing the website for a garage door reseller, but some were awesome, like working for Expedia.
 
 **[Univerexport](https://univerexport.rs/)** — _Marketing Intern_
 
-Univerexport, one of the biggest retailers in Serbia. Who would tell! While studying, I've gotten a chance to be a part of the team that built the first online retail application on the Serbian market, eLakolije. Didn't do much there, was fun either way.
+Univerexport, and you probably have never heard of it, is one of the biggest retailers in Serbia. Who would tell! While studying, I've gotten a chance to be a part of the team that built the very first online retail application on the Serbian market, eLakolije. Didn't do much there, was fun either way.
 
 <br>
 
@@ -81,9 +83,9 @@ Univerexport, one of the biggest retailers in Serbia. Who would tell! While stud
 <br>
 ### Where I've talked:
 
-UNS Faculty of Technical sciences — Guest lecturing at the local Uni
+UNS Faculty of Technical Sciences — Guest lecturing at the local Uni
 
-[IdeaLab](http://www.idealab.rs/) — Universty Acclerator
+[IdeaLab](http://www.idealab.rs/) Universty Accelerator — Classes for the Universty entrepreneurship program
 
 [Prevent NGO](http://prevent.org.rs/) — Lecturing, the digital marketing training program for the unemployed
 
