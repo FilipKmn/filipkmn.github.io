@@ -95,12 +95,10 @@ UNS Faculty of Technical Sciences — Guest lecturing at the local Uni
 
 ### Social:
 
-![Skecth by Tamara Cubrilo](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/fiko%20(2).png?raw=true)
-
 
 Find me on: [Twitter](https://twitter.com/filipkmn), [LinkedIn](https://www.linkedin.com/in/filipkomnenovic) and [GitHub](https://github.com/filipkmn)  
 
-
+![Skecth by Tamara Cubrilo](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/fiko%20(2).png?raw=true)
 
 *Disclaimer: This blog may contain traces of amateur photography, personal
 opinions, cases of glorifying Srem and food criticism.*
