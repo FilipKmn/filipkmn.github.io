@@ -10,7 +10,9 @@ What motivates me to create outstanding products is the pure joy of building a p
 
 I'd say that I’m a cheerful guy, with marketing in heart and tech in blood. Loving every single moment of the long and tedious journey that stand behind building an exceptional piece of software — that ends up changing our world.
 
-When not working, you’ll find me cultivating a vigorous spirit through the martial art of Kendo, hanging out in the forest with my mountain bike, and snapping photos every once in a while — seldom people comment that they are any good though. One day I hope to fulfill my boyhood dream and learn to fly (a plane).
+When not working, you’ll find me cultivating a vigorous spirit through the martial art of Kendo, hanging out in the forest with my mountain bike, and snapping photos every once in a while — seldom people comment that they are any good though. 
+
+One day I hope to fulfill my boyhood dream and learn to fly (a plane).
 
 ![Fica Kendo](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/AboutMe.png?raw=true)
 
