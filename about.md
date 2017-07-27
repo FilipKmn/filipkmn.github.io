@@ -21,7 +21,6 @@ _Fun fact:_ Learned the most when the startup I co-founded burned and crashed ba
 <br>
 ### Work Experience:
 
-![](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/fiko.png?raw=true)
 
 **[Alchemy](https://alchemy.cloud/)** — _Product Marketing_
 
@@ -95,6 +94,8 @@ UNS Faculty of Technical Sciences — Guest lecturing at the local Uni
 <br>
 
 ### Social:
+
+![](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/fiko.png?raw=true)
 
 
 Find me on: [Twitter](https://twitter.com/filipkmn), [LinkedIn](https://www.linkedin.com/in/filipkomnenovic) and [GitHub](https://github.com/filipkmn)  
