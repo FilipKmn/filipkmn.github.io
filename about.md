@@ -98,7 +98,7 @@ UNS Faculty of Technical Sciences — Guest lecturing at the local Uni
 
 UNS Faculty of Economics — MSc of Economy specializing in marketing
 
-ICT Cluster Academy — Local bootcamp
+ICT Cluster Academy — Coding bootcamp, front-end development
 
 
 <br>
