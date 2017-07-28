@@ -64,31 +64,31 @@ Univerexport, and you probably have never heard of it, is one of the biggest ret
 
 
 
-[Danulabs](https://www.m-pioneers.com/) — Helping a software consultancy grow their client base 
+**[Danulabs](https://www.m-pioneers.com/)** — Helping a software consultancy grow their client base 
 
-[Homepage](https://homepage.rs/) — Working together on projects and educating the staff at the creative digital agency
+**[Homepage](https://homepage.rs/)** — Working together on projects and educating the staff at the creative digital agency
 
-[CaliVita](https://serbia.calivita.com/) — Localization and digital marketing services to a global brand
+**[CaliVita](https://serbia.calivita.com/)** — Localization and digital marketing services to a global brand
 
 <br>
 
 ### Free Time:
 
 
-[Marketing Community Serbia](https://www.facebook.com/groups/marketing.zajednica/) — Co-organiser
+**[Marketing Community Serbia](https://www.facebook.com/groups/marketing.zajednica/)** — Co-organiser
 
-[Startup Weekend Novi Sad](http://swns.nstarter.co/) — Mentor
+**[Startup Weekend Novi Sad](http://swns.nstarter.co/)** — Mentor
 
-[nStarter](nstarter.co) — Mentor
+**[nStarter](nstarter.co)** — Mentor
 
 <br>
 ### Where I've talked:
 
-UNS Faculty of Technical Sciences — Guest lecturing at the local Uni
+**UNS Faculty of Technical Sciences** — Guest lecturing at the local Uni
 
-[IdeaLab](http://www.idealab.rs/) Universty Accelerator — Classes for the Universty entrepreneurship program
+**[IdeaLab](http://www.idealab.rs/) Universty Accelerator** — Classes for the Universty entrepreneurship program
 
-[Prevent NGO](http://prevent.org.rs/) — Lecturing, the digital marketing training program for the unemployed
+**[Prevent NGO](http://prevent.org.rs/)** — Lecturing, the digital marketing training program for the unemployed
 
 
 <br>
@@ -96,9 +96,9 @@ UNS Faculty of Technical Sciences — Guest lecturing at the local Uni
 
 ### Education:
 
-UNS Faculty of Economics — MSc of Economy specializing in marketing
+**UNS Faculty of Economics** — MSc of Economy specializing in marketing
 
-ICT Cluster Academy — Coding bootcamp, front-end development
+**ICT Cluster Academy** — Coding bootcamp, front-end development
 
 
 <br>
