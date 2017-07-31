@@ -36,9 +36,9 @@ Working on Sifu was great, I was the only non-tech person there and was leading 
 
 **[Rendered Text](http://renderedtext.com/)** — _Marketing and Analytics [and more]_
 
-Making [Semaphore](https://semaphoreci.com) happen and helping software development teams move faster through development thanks to our product — a hosted continuous integration and delivery service. With over thousand customers including the likes of Intel, eBay, 500px Semaphore is making a real bang in the development community.
+Making [Semaphore](https://semaphoreci.com) happen and helping software development teams move faster through development thanks to our product — a hosted continuous integration and delivery service. With over a thousand customers, including the likes of Intel, eBay, 500px, Semaphore is making a real bang in the development community.
 
-Semaphore was and is my most favorite product. I've worked day and night on developing Semaphore — always with a big smile. From finding ways how to grow the user base to organizing tech events. 
+Semaphore was and is my favorite product. I've worked day and night on developing Semaphore — always with a big smile. From finding ways to grow the user base to organizing tech events. 
 
 Semaphore holds a special place in my heart and as a product best represents me as a professional product person.
 
@@ -46,13 +46,13 @@ Semaphore holds a special place in my heart and as a product best represents me 
 
 Got through the thick of it while learning how to deliver my first cloud application. 
 
-The first major cloud product I was involved with – a social network for the Sweedish market. A big stepping stone for me, learning how to get requirements from clients and deliver software on time.
+The first major cloud product I was involved with – a social network for the Swedish market. A big stepping stone for me, learning how to get requirements from clients and deliver software on time.
 
 **[Dejan Marketing](https://dejanseo.com.au/)** — _Online Marketing Coordinator_
 
 Working for a digital marketing agency isn't as dull as it is sound, as long as you are set on learning the most you can and moving on even faster.
 
-I've learned the ropes on digital marketing here, from SEO and content marketing to A/B testing. Not all the projects were cool, like working on optimizing the website for a garage door reseller, but some were awesome, like working for Expedia.
+I've learned the ropes of digital marketing here, from SEO and content marketing to A/B testing. Not all the projects were cool, like working on optimizing the website for a garage door reseller, but some were awesome, like working for Expedia.
 
 **[Univerexport](https://univerexport.rs/)** — _Marketing Intern_
 
