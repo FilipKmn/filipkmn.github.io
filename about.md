@@ -8,9 +8,9 @@ I love creating all sorts of things and software for that matter!
 
 What motivates me to create outstanding products is the pure joy of building a piece of software that will help out people in their everyday lives.
 
-I'd say that I’m a cheerful guy, with marketing in heart and tech in blood. Loving every single moment of the long and tedious journey that stand behind building an exceptional piece of software — that ends up changing our world.
+I'd say that I’m a cheerful guy, with marketing in heart and tech in blood. Loving every single moment of the long and tedious journey that stands behind building an exceptional piece of software — that ends up changing our world.
 
-When not working, you’ll find me cultivating a vigorous spirit through the martial art of Kendo, hanging out in the forest with my mountain bike, and snapping photos every once in a while — seldom people comment that they are any good though. 
+When not working, you’ll find me cultivating a vigorous spirit through the martial art of Kendo, hanging out in the forest with my mountain bike, and snapping photos every once in a while. 
 
 One day I hope to fulfill my boyhood dream and learn to fly (a plane).
 
@@ -32,7 +32,7 @@ Most of the time juggling in between the product marketing, customer success, an
 
 Developing [Sifu](https://codesifu.com/) — a software development tool that made it possible to make applications go from zero to awesome in no time. 
 
-Working on Sifu was great, I was the only non-tech person there and was leading all of the marketing efforts as both doing some business development and getting down and dirty with VC's.
+Working on Sifu was great, I was the only non-tech person there and was leading all of the marketing  as I was both doing some business development and getting down and dirty with VC's.
 
 **[Rendered Text](http://renderedtext.com/)** — _Marketing and Analytics [and more]_
 
@@ -50,7 +50,7 @@ The first major cloud product I was involved with – a social network for the S
 
 **[Dejan Marketing](https://dejanseo.com.au/)** — _Online Marketing Coordinator_
 
-Working for a digital marketing agency isn't as dull as it is sound, as long as you are set on learning the most you can and moving on even faster.
+Working for a digital marketing agency isn't as dull as it is sounds, as long as you are set on learning the most you can and moving on even faster.
 
 I've learned the ropes of digital marketing here, from SEO and content marketing to A/B testing. Not all the projects were cool, like working on optimizing the website for a garage door reseller, but some were awesome, like working for Expedia.
 
