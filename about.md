@@ -12,7 +12,7 @@ I'd say that I’m a cheerful guy, with marketing in heart and tech in blood. Lo
 
 When not working, you’ll find me cultivating a vigorous spirit through the martial art of Kendo, hanging out in the forest with my mountain bike, and snapping photos every once in a while. 
 
-One day I hope to fulfill my boyhood dream and learn to fly (a plane).
+One day I hope to fulfill my boyhood dream and learn to fly (a plane). ![plane](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/plane.png)
 
 ![Fica Kendo](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/AboutMe.png?raw=true)
 
