@@ -19,7 +19,9 @@ One day I hope to fulfill my boyhood dream and learn to fly (a plane).
 _Fun fact:_ Learned the most when the startup I co-founded burned and crashed back in 2013.
 
 <br>
+
 ![Work](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/coffee.png?raw=true)
+
 ### Work Experience: 
 
 **[Alchemy](https://alchemy.cloud/)** — _Product Marketing_
@@ -59,7 +61,9 @@ I've learned the ropes of digital marketing here, from SEO and content marketing
 Univerexport, and you probably have never heard of it, is one of the biggest retailers in Serbia. Who would tell! While studying, I've gotten a chance to be a part of the team that built the very first online retail application on the Serbian market, eLakolije. Didn't do much there, was fun either way.
 
 <br>
+
 ![love](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/House%20Love.png?raw=true)
+
 ### Companies I Helped: 
 
 **[Danulabs](https://www.m-pioneers.com/)** — Helping a software consultancy grow their client base 
@@ -69,7 +73,9 @@ Univerexport, and you probably have never heard of it, is one of the biggest ret
 **[CaliVita](https://serbia.calivita.com/)** — Localization and digital marketing services to a global brand
 
 <br>
+
 ![free](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/Bulb.png?raw=true)
+
 ### Free Time: 
 
 **[Marketing Community Serbia](https://www.facebook.com/groups/marketing.zajednica/)** — Co-organiser
@@ -79,7 +85,9 @@ Univerexport, and you probably have never heard of it, is one of the biggest ret
 **[nStarter](nstarter.co)** — Mentor
 
 <br>
+
 ![talk](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/Talking.png?raw=true)
+
 ### Where I've talked: 
 
 **UNS Faculty of Technical Sciences** — Guest lecturing at the local Uni
@@ -89,7 +97,9 @@ Univerexport, and you probably have never heard of it, is one of the biggest ret
 **[Prevent NGO](http://prevent.org.rs/)** — Lecturing, the digital marketing training program for the unemployed
 
 <br>
+
 ![edu](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/Edu.png?raw=true)
+
 ### Education: 
 
 **UNS Faculty of Economics** — MSc of Economy specializing in marketing
@@ -98,7 +108,9 @@ Univerexport, and you probably have never heard of it, is one of the biggest ret
 
 
 <br>
+
 ![love](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/heart.png?raw=true)
+
 ### Social:
 
 
