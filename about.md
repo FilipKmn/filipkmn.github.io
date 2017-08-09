@@ -19,7 +19,7 @@ One day I hope to fulfill my boyhood dream and learn to fly (a plane).
 _Fun fact:_ Learned the most when the startup I co-founded burned and crashed back in 2013.
 
 <br>
-### Work Experience:
+### Work Experience: ![Work](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/coffee.png?raw=true)
 
 
 **[Alchemy](https://alchemy.cloud/)** — _Product Marketing_
@@ -60,7 +60,7 @@ Univerexport, and you probably have never heard of it, is one of the biggest ret
 
 <br>
 
-### Companies I Helped:
+### Companies I Helped: ![love](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/House%20Love.png?raw=true)
 
 
 
@@ -72,7 +72,7 @@ Univerexport, and you probably have never heard of it, is one of the biggest ret
 
 <br>
 
-### Free Time:
+### Free Time: ![free](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/Bulb.png?raw=true)
 
 
 **[Marketing Community Serbia](https://www.facebook.com/groups/marketing.zajednica/)** — Co-organiser
@@ -82,7 +82,7 @@ Univerexport, and you probably have never heard of it, is one of the biggest ret
 **[nStarter](nstarter.co)** — Mentor
 
 <br>
-### Where I've talked:
+### Where I've talked: ![talk](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/Talking.png?raw=true)
 
 **UNS Faculty of Technical Sciences** — Guest lecturing at the local Uni
 
@@ -94,7 +94,7 @@ Univerexport, and you probably have never heard of it, is one of the biggest ret
 <br>
 
 
-### Education:
+### Education: ![edu](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/Edu.png?raw=true)
 
 **UNS Faculty of Economics** — MSc of Economy specializing in marketing
 
