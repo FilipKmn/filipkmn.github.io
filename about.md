@@ -22,7 +22,6 @@ _Fun fact:_ Learned the most when the startup I co-founded burned and crashed ba
 ![Work](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/coffee.png?raw=true)
 ### Work Experience: 
 
-
 **[Alchemy](https://alchemy.cloud/)** — _Product Marketing_
 
 Building a vertical SaaS that facilitates the commercialization of new formulations in the specialty chemistry industry (a nearly $1 trillion global market). 
@@ -63,8 +62,6 @@ Univerexport, and you probably have never heard of it, is one of the biggest ret
 ![love](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/House%20Love.png?raw=true)
 ### Companies I Helped: 
 
-
-
 **[Danulabs](https://www.m-pioneers.com/)** — Helping a software consultancy grow their client base 
 
 **[Homepage](https://homepage.rs/)** — Working together on projects and educating the staff at the creative digital agency
@@ -74,7 +71,6 @@ Univerexport, and you probably have never heard of it, is one of the biggest ret
 <br>
 ![free](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/Bulb.png?raw=true)
 ### Free Time: 
-
 
 **[Marketing Community Serbia](https://www.facebook.com/groups/marketing.zajednica/)** — Co-organiser
 
@@ -92,9 +88,7 @@ Univerexport, and you probably have never heard of it, is one of the biggest ret
 
 **[Prevent NGO](http://prevent.org.rs/)** — Lecturing, the digital marketing training program for the unemployed
 
-
 <br>
-
 ![edu](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/Edu.png?raw=true)
 ### Education: 
 
