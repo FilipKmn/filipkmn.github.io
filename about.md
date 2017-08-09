@@ -19,7 +19,8 @@ One day I hope to fulfill my boyhood dream and learn to fly (a plane).
 _Fun fact:_ Learned the most when the startup I co-founded burned and crashed back in 2013.
 
 <br>
-### Work Experience: ![Work](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/coffee.png?raw=true)
+![Work](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/coffee.png?raw=true)
+### Work Experience: 
 
 
 **[Alchemy](https://alchemy.cloud/)** — _Product Marketing_
@@ -59,8 +60,8 @@ I've learned the ropes of digital marketing here, from SEO and content marketing
 Univerexport, and you probably have never heard of it, is one of the biggest retailers in Serbia. Who would tell! While studying, I've gotten a chance to be a part of the team that built the very first online retail application on the Serbian market, eLakolije. Didn't do much there, was fun either way.
 
 <br>
-
-### Companies I Helped: ![love](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/House%20Love.png?raw=true)
+![love](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/House%20Love.png?raw=true)
+### Companies I Helped: 
 
 
 
@@ -71,8 +72,8 @@ Univerexport, and you probably have never heard of it, is one of the biggest ret
 **[CaliVita](https://serbia.calivita.com/)** — Localization and digital marketing services to a global brand
 
 <br>
-
-### Free Time: ![free](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/Bulb.png?raw=true)
+![free](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/Bulb.png?raw=true)
+### Free Time: 
 
 
 **[Marketing Community Serbia](https://www.facebook.com/groups/marketing.zajednica/)** — Co-organiser
@@ -82,7 +83,8 @@ Univerexport, and you probably have never heard of it, is one of the biggest ret
 **[nStarter](nstarter.co)** — Mentor
 
 <br>
-### Where I've talked: ![talk](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/Talking.png?raw=true)
+![talk](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/Talking.png?raw=true)
+### Where I've talked: 
 
 **UNS Faculty of Technical Sciences** — Guest lecturing at the local Uni
 
@@ -93,8 +95,8 @@ Univerexport, and you probably have never heard of it, is one of the biggest ret
 
 <br>
 
-
-### Education: ![edu](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/Edu.png?raw=true)
+![edu](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/Edu.png?raw=true)
+### Education: 
 
 **UNS Faculty of Economics** — MSc of Economy specializing in marketing
 
@@ -102,7 +104,7 @@ Univerexport, and you probably have never heard of it, is one of the biggest ret
 
 
 <br>
-
+![love](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/heart.png?raw=true)
 ### Social:
 
 
