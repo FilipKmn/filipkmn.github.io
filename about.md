@@ -30,13 +30,13 @@ Building a vertical SaaS that facilitates the commercialization of new formulati
 
 Most of the time juggling in between the product marketing, customer success, and product development. 
 
-**[dryTools](http://drytools.co/)** — _Product Marketing and development_
+**[dryTools](http://drytools.co/)** — _Product Marketing & Product Development_
 
 Developing [Sifu](https://codesifu.com/) — a software development tool that made it possible to make applications go from zero to awesome in no time. 
 
 Working on Sifu was great, I was the only non-tech person there and was leading all of the marketing  as I was both doing some business development and getting down and dirty with VC's.
 
-**[Rendered Text](http://renderedtext.com/)** — _Marketing and Analytics [and more]_
+**[Rendered Text](http://renderedtext.com/)** — _Marketing & Analytics [and more]_
 
 Making [Semaphore](https://semaphoreci.com) happen and helping software development teams move faster through development thanks to our product — a hosted continuous integration and delivery service. With over a thousand customers, including the likes of Intel, eBay, 500px, Semaphore is making a real bang in the development community.
 
