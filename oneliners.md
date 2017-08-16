@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: One Liners
 published: true
 ---
@@ -25,7 +25,7 @@ And when we are dead let our voices carry on*<br>
 Find a beeter song to sing along
 <br>
 
-Humility — the abilty to be of help to the humanity /even if...
+**Humility** — the abilty to be of help to the humanity /even if...
 <br>
 
 I've never been too quick <br>
