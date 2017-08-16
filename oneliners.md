@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: One Liners
 published: true
 ---
