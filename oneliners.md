@@ -12,7 +12,7 @@ Being in between deities, <br>
 Sipping the left over nectar<br>
 Happly embacing the all life<br>
 <br>
-
+<hr>
 *Remember not our faulty pieces<br>
 Remember not our rusted parts<br>
 It's not the petty imperfections that define us but<br>
