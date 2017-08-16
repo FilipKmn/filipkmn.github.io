@@ -24,7 +24,7 @@ And when we are dead let our voices carry on*<br>
 
 Find a beeter song to sing along
 <br>
-
+<hr>
 **Humility** — the abilty to be of help to the humanity /even if...
 <br>
 
@@ -33,7 +33,7 @@ Always taking the things as they come<br>
 Hard to deliver<br>
 And I respond how I feel fit<br>
 
-
+<hr>
 **Harbor[ing]** — or haven, is a matter of water, too seek shelter from storms
 
 [fika] — having a break, most often a coffee break, with one's colleagues, friends, date or family
