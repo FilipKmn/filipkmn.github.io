@@ -12,7 +12,7 @@ Being in between deities, <br>
 Sipping the left over nectar<br>
 Happly embacing the all life<br>
 <br>
-<hr>
+
 *Remember not our faulty pieces<br>
 Remember not our rusted parts<br>
 It's not the petty imperfections that define us but<br>
@@ -36,4 +36,4 @@ And I respond how I feel fit<br>
 
 **Harbor[ing]** — or haven, is a matter of water, too seek shelter from storms
 
-[fiːka] — having a break, most often a coffee break, with one's colleagues, friends, date or family. 
+[fika] — having a break, most often a coffee break, with one's colleagues, friends, date or family
