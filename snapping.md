@@ -10,6 +10,6 @@ Dan za danom
 <br>
 <hr>
 
-Sokrat: 'Pošten čovjek je uvek dete.'
+Sokrat: 'Pošten čovek je uvek dete.'
 
 ![stap i Skorat](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/ikigai/IMG_2060.jpg?raw=true)
