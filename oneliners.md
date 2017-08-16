@@ -1,3 +1,9 @@
+---
+layout: page
+title: One Liners
+published: true
+---
+
 Sorrow — yet another line in between boyhood and a man
 
 *Remember not our faulty pieces
@@ -11,3 +17,9 @@ And when we are dead let our voices carry on*
 Find a beeter song to sing along
 
 Humility — the abilty to be of help to the humanity /even if...
+
+I've never been too quick 
+Always taking the things as they come
+Hard to deliver
+And I respond how I feel fit to the world
+And harbor our love
