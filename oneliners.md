@@ -31,5 +31,5 @@ Humility — the abilty to be of help to the humanity /even if...
 I've never been too quick 
 Always taking the things as they come
 Hard to deliver
-And I respond how I feel fit to the world
-And harbor our love
+And I respond how I feel fit
+Harboring our love
