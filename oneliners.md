@@ -37,3 +37,8 @@ And I respond how I feel fit<br>
 **Harbor[ing]** — or haven, is a matter of water, too seek shelter from storms
 
 [fika] — having a break, most often a coffee break, with one's colleagues, friends, date or family
+
+<br>
+<hr>
+
+**Fight** — how you choose to live your life *fight a good fight*
