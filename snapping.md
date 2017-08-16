@@ -7,7 +7,6 @@ Dan za danom
 
 !['omoljka](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/ikigai/IMG_2207.JPG?raw=true)
 
-<br>
 <hr>
 
 Sokrat: 'Pošten čovek je uvek dete.'
