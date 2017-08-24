@@ -118,7 +118,6 @@ Find me on: [Twitter](https://twitter.com/filipkmn), [LinkedIn](https://www.link
 
 <br>
 
-![Skecth by Tamara Cubrilo](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/planet.png?raw=true)
 
 *Disclaimer: This blog may contain traces of amateur photography, personal
 opinions, cases of glorifying Srem and food criticism.*
