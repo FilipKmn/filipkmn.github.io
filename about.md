@@ -50,7 +50,7 @@ Got through the thick of it while learning how to deliver my first cloud applica
 
 The first major cloud product I was involved with – a social network for the Swedish market. A big stepping stone for me, learning how to get requirements from clients and deliver software on time.
 
-**[Dejan Marketing](https://dejanseo.com.au/)** — _Online Marketing Coordinator_
+**[Brisbane Digital](https://dejanseo.com.au/)** — _Online Marketing Coordinator_
 
 Working for a digital marketing agency isn't as dull as it is sounds, as long as you are set on learning the most you can and moving on even faster.
 
