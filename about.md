@@ -34,7 +34,7 @@ Most of the time juggling in between the product marketing, customer success, an
 
 Developing [Sifu](https://codesifu.com/) — a software development tool that made it possible to make applications go from zero to awesome in no time. 
 
-Working on Sifu was great, I was the only non-tech person there and was leading all of the marketing  as I was both doing some business development and getting down and dirty with VC's.
+Working on Sifu was great, I was the only non-tech person there and was leading all of the marketing, as well as doing some business development and getting down and dirty with VC's.
 
 **[Rendered Text](http://renderedtext.com/)** — _Marketing & Analytics [and more]_
 
@@ -68,6 +68,8 @@ Univerexport, and you probably have never heard of it, is one of the biggest ret
 
 **[Danulabs](https://www.m-pioneers.com/)** — Helping a software consultancy grow their client base 
 
+**[EntryRocket](https://entryrocket.com/)** — Building a bigger user base and building a stronger digital presence 
+
 **[Homepage](https://homepage.rs/)** — Working together on projects and educating the staff at the creative digital agency
 
 **[CaliVita](https://serbia.calivita.com/)** — Localization and digital marketing services to a global brand
@@ -95,6 +97,8 @@ Univerexport, and you probably have never heard of it, is one of the biggest ret
 **[IdeaLab](http://www.idealab.rs/) Universty Accelerator** — Classes for the Universty entrepreneurship program
 
 **[Prevent NGO](http://prevent.org.rs/)** — Lecturing, the digital marketing training program for the unemployed
+
+**[Women in IT](http://www.biznisnova.com/)** — One day workshop on digital marketing, organized by BiznisNova
 
 <br>
 
