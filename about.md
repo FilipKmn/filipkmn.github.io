@@ -24,7 +24,7 @@ _Fun fact:_ Learned the most when the startup I co-founded burned and crashed ba
 
 ### Work Experience: 
 
-**[bestbytes](http://www.bestbytes.de/)** — _Product Menager_
+**[bestbytes](http://www.bestbytes.de/)** — _Product Manager_
 
 The main clinet at bestbytes for me was [Globus](https://www.globus.ch/)... one of the most renowned in the Swiss with over 100 years of tradition and over 50 stores around Switzerland. Emphasizing on the cutting edge in commerce  Globus invests heavy in technology.  
 
