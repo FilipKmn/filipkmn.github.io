@@ -30,6 +30,8 @@ The main clinet at bestbytes for me was [Globus](https://www.globus.ch/)... one 
 
 As a product manager at bestbytes I was developing Digital in Store products —  a set of physical products interlinked with e-commerce with the intention to raise sales and better the customer experience.
 
+As an internal project, we were developing an iOS app for sketching and visual communication for architects, due to lack of resource it was never got past the beta phase.
+
 **[Alchemy](https://alchemy.cloud/)** — _Product Marketing_
 
 Building a vertical SaaS that facilitates the commercialization of new formulations in the specialty chemistry industry (a nearly $1 trillion global market). 
