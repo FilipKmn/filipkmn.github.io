@@ -4,7 +4,7 @@ title: About Me
 published: true
 ---
 
-I love creating all sorts of things and software for that matter!
+I love creating all sorts of things... and software for that matter!
 
 What motivates me to create outstanding products is the pure joy of building a piece of software that will help out people in their everyday lives.
 
@@ -23,6 +23,12 @@ _Fun fact:_ Learned the most when the startup I co-founded burned and crashed ba
 ![Work](https://github.com/FilipKmn/filipkmn.github.io/blob/master/assets/images/coffee.png?raw=true)
 
 ### Work Experience: 
+
+**[bestbytes](http://www.bestbytes.de/)** — _Product Menager_
+
+The main clinet at bestbytes for me was [Globus](https://www.globus.ch/)... one of the most renowned in the Swiss with over 100 years of tradition and over 50 stores around Switzerland. Emphasizing on the cutting edge in commerce  Globus invests heavy in technology.  
+
+As a product manager at bestbytes I was developing Digital in Store products —  a set of physical products interlinked with e-commerce with the intention to raise sales and better the customer experience.
 
 **[Alchemy](https://alchemy.cloud/)** — _Product Marketing_
 
@@ -80,9 +86,11 @@ Univerexport, and you probably have never heard of it, is one of the biggest ret
 
 ### Free Time: 
 
+**[Startup Grind Novi Sad](https://www.startupgrind.com/novi-sad/)** — Chapter Director
+
 **[Marketing Community Serbia](https://www.facebook.com/groups/marketing.zajednica/)** — Co-organiser
 
-**[Startup Weekend Novi Sad](http://swns.nstarter.co/)** — Mentor
+**[Startup Weekend Novi Sad](http://swns.nstarter.co/)** — Mentor 
 
 **[nStarter](nstarter.co)** — Mentor
 
