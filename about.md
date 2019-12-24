@@ -26,11 +26,11 @@ _Fun fact:_ Learned the most when the startup I co-founded burned and crashed ba
 
 **[bestbytes](http://www.bestbytes.de/)** — _Product Manager_
 
-The main clinet at bestbytes for me was [Globus](https://www.globus.ch/)... one of the most renowned in the Swiss with over 100 years of tradition and over 50 stores around Switzerland. Emphasizing on the cutting edge in commerce  Globus invests heavy in technology.  
+The main clinet at bestbytes for me was [Globus](https://www.globus.ch/)... one of the most renowned department stores in the Switzerland with over 100 years of tradition and over 50 stores around Switzerland. Emphasizing on the cutting edge in commerce  Globus invests heavy in technology.  
 
 As a product manager at bestbytes I was developing Digital in Store products —  a set of physical products interlinked with e-commerce with the intention to raise sales and better the customer experience.
 
-As an internal project, we were developing an iOS app for sketching and visual communication for architects, due to lack of resource it has never got past the beta phase.
+As an internal project, we were developing an iOS app for sketching and visual communication for architects, due to lack of resource it has never got past the beta phase — [TeamSketch](https://teamsketch.app/).
 
 **[Alchemy](https://alchemy.cloud/)** — _Product Marketing_
 
