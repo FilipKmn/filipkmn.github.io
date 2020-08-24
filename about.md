@@ -4,13 +4,11 @@ title: About Me
 published: true
 ---
 
-I love creating all sorts of things... and software for that matter!
+I love building all sorts of things... and digital products for that matter!
 
-What motivates me to create outstanding products is the pure joy of building a piece of software that will help out people in their everyday lives.
+Creating outstanding digital products with amazing people coupled with the pure joy of building a piece of software that ends up helping people in their everyday lives, what could be better...  I'd say I probably have one of the best jobs out there.
 
-I'd say that I’m a cheerful guy, with marketing in heart and tech in blood. Loving every single moment of the long and tedious journey that stands behind building an exceptional piece of software — that ends up changing our world.
-
-When not working, you’ll find me cultivating a vigorous spirit through the martial art of Kendo, hanging out in the forest with my mountain bike, and snapping photos every once in a while. 
+When not working, you’ll find me cultivating a vigorous spirit through the martial art of Kendo, hanging out in the forest with my mountain bike and doing what I love the most spending some quality time with my wiffo and my doggo. 
 
 One day I hope to fulfill my boyhood dream and learn to fly (a plane).
 
